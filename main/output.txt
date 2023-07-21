@@ -1,0 +1,155 @@
+
+
+a
+rejected
+
+ab
+accepted
+
+aba
+rejected
+
+aabb
+rejected
+
+ababa
+rejected
+
+abab
+accepted
+
+ab
+accepted
+
+aaa
+rejected
+
+abbb
+rejected
+
+aabb
+rejected
+
+ababa
+rejected
+
+aaa
+rejected
+
+aaabbb
+rejected
+
+bbb
+rejected
+
+ba
+rejected
+
+baba
+rejected
+
+bbbbaaaa
+rejected
+
+aaabbbaaa
+rejected
+
+ab
+accepted
+
+abab
+accepted
+
+ababab
+accepted
+
+ 
+invalid string input
+rejected
+
+ 
+invalid string input
+rejected
+
+
+accepted
+
+a1
+invalid string input
+rejected
+
+1a
+invalid string input
+rejected
+
+b1
+invalid string input
+rejected
+
+1b
+invalid string input
+rejected
+
+a1b
+invalid string input
+rejected
+
+b1a
+invalid string input
+rejected
+
+b11
+invalid string input
+rejected
+
+a12
+invalid string input
+rejected
+
+aa11bb
+invalid string input
+rejected
+
+a b
+invalid string input
+rejected
+
+b a
+invalid string input
+rejected
+
+ba
+rejected
+
+baba
+rejected
+
+aaa
+rejected
+
+ab
+accepted
+
+ababab
+accepted
+
+aabb
+rejected
+
+aaa
+rejected
+
+aba
+rejected
+
+aba
+rejected
+
+ab
+accepted
+
+ababab
+accepted
+
+abababab
+accepted
